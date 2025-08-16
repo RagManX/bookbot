@@ -1,2 +1,3 @@
 # bookbot
-The project repo for boot.dev Python bookbot project.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
